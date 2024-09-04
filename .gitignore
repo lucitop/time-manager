@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# JSON data (ignore stored templates)
+templates.json
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# VS Code settings (if you're using it)
+.vscode/
